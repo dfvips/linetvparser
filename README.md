@@ -12,7 +12,7 @@
 <h2>操作步骤</h2>
 <h3>方法一</h3>
 <img src="https://user-images.githubusercontent.com/21048630/172067130-3c788730-c3fa-4736-97fc-63503280e822.png" />
-<h3>方法二（有概率出错）</h3>
+<h3>方法二</h3>
 <img src="https://user-images.githubusercontent.com/21048630/172067158-fe9cd17f-0d3b-48de-bad3-9a138445976e.png" />
 <h2>声明</h2>
 <p>本插件仅供学习研究，请勿滥用！<br/>
