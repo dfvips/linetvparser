@@ -1,5 +1,5 @@
 # linetvparser
- LineTV视频解析 chrome拓展程序
+ <a href="linetv.tw">LineTV</a>视频解析 chrome拓展程序
 <h2>使用方法</h2>
 <ol>
 <li>
